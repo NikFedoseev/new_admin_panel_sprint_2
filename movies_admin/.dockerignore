@@ -1,0 +1,5 @@
+config/.env
+config/.env.example
+.python-version
+.dockerignore
+Dockerfile

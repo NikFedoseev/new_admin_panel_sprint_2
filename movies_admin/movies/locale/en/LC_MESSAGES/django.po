@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-09 12:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: movies/apps.py:8
+msgid "movies"
+msgstr ""
+
+#: movies/models.py:8
+msgid "created"
+msgstr ""
+
+#: movies/models.py:9
+msgid "modified"
+msgstr ""
+
+#: movies/models.py:24
+msgid "name"
+msgstr ""
+
+#: movies/models.py:25 movies/models.py:54
+msgid "description"
+msgstr ""
+
+#: movies/models.py:29 movies/models.py:75
+msgid "Genre"
+msgstr ""
+
+#: movies/models.py:30
+msgid "Genres"
+msgstr ""
+
+#: movies/models.py:37
+msgid "full_name"
+msgstr ""
+
+#: movies/models.py:41 movies/models.py:93
+msgid "Person"
+msgstr ""
+
+#: movies/models.py:42
+msgid "Persons"
+msgstr ""
+
+#: movies/models.py:50
+msgid "type_movie"
+msgstr ""
+
+#: movies/models.py:51
+msgid "type_tv_show"
+msgstr ""
+
+#: movies/models.py:53
+msgid "title"
+msgstr ""
+
+#: movies/models.py:55
+msgid "creation_date"
+msgstr ""
+
+#: movies/models.py:56
+msgid "rating"
+msgstr ""
+
+#: movies/models.py:58
+msgid "type"
+msgstr ""
+
+#: movies/models.py:64 movies/models.py:73 movies/models.py:91
+msgid "Filmwork"
+msgstr ""
+
+#: movies/models.py:65
+msgid "Filmworks"
+msgstr ""
+
+#: movies/models.py:80
+msgid "genre_film_work"
+msgstr ""
+
+#: movies/models.py:81
+msgid "genre_film_works"
+msgstr ""
+
+#: movies/models.py:86
+msgid "role_actor"
+msgstr ""
+
+#: movies/models.py:87
+msgid "role_director"
+msgstr ""
+
+#: movies/models.py:88
+msgid "role_writer"
+msgstr ""
+
+#: movies/models.py:94
+msgid "role"
+msgstr ""
+
+#: movies/models.py:99
+msgid "person_film_work"
+msgstr ""
+
+#: movies/models.py:100
+msgid "person_film_works"
+msgstr ""
